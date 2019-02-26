@@ -24,3 +24,4 @@ public class ExampleInstrumentedTest {
         assertEquals("com.example.trialz", appContext.getPackageName());
     }
 }
+//End of line comment
